@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/root/.vim/ftplugin'
+let g:netrw_dirhist_9='/root/dev/flytrap/build/lib/CMakeFiles'
+let g:netrw_dirhist_8='/root/dev/flytrap/lib'
+let g:netrw_dirhist_7='/root/dev/flytrap/lib/src/utils'
+let g:netrw_dirhist_6='/root/.vim/ftplugin'
+let g:netrw_dirhist_5='/root/.vim/pack/git-plugins/start/ale/ale_linters'
+let g:netrw_dirhist_4='/root/dev/flytrap/build/CMakeFiles/3.15.5'
+let g:netrw_dirhist_3='/root/dev/flytrap/build/CMakeFiles'
+let g:netrw_dirhist_2='/root/dev/flytrap/build'
+let g:netrw_dirhist_1='/root/dev/flytrap/lib'
